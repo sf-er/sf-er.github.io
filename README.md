@@ -1,4 +1,7 @@
+<html>
+<head>
 <link href="http://4f41u55337.qicp.vip/static/css/pincong/img/favicon.ico?v=20210316" rel="shortcut icon" type="image/x-icon" />
+<body>
 新·省附人 项目主页<br>
 希望大家支持本项目。项目工程已竣工：4f41u55337.qicp.vip
 <br><a href="http://4f41u55337.qicp.vip/">论坛首页</a><br>
