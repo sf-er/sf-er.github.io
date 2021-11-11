@@ -2,7 +2,7 @@
 <head>
 <link href="http://sfercongbbs.ticp.io/static/css/pincong/img/favicon.ico?v=20210316" rel="shortcut icon" type="image/x-icon" />
 <body>
-新·省附人 项目主页<br>
+<h1 class = "color:white;">新·省附人 项目主页</h1><br>
 希望大家支持本项目。项目工程已竣工：http://sfercongbbs.ticp.io
 <br><a href="http://sfercongbbs.ticp.io">论坛首页</a><br>
 <a href="http://sfercongbbs.ticp.io/wiki">维文库</a><br>
